@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Buddy",
+        "image": "https://img.freepik.com/free-photo/adorable-cat-relaxing-indoors_23-2150692767.jpg?t=st=1717842794~exp=1717846394~hmac=75954e0033c07df6f8513b29a7de56c22f3771fe157645267b1013c8e0fdedfe&w=1060",
+        "maximum_donation_amount": 500
+    },
+    {
+        "name": "Whiskers",
+        "image": "https://img.freepik.com/free-photo/closeup-kooikerhondje-dog-photography_1409-4207.jpg?t=st=1717843092~exp=1717846692~hmac=41bcd32360732efa9747e24a9f2dd2ce63f005b489bc3596fef600611d0bde38&w=360",
+        "maximum_donation_amount": 300
+    },
+    {
+        "name": "Rex",
+        "image": "https://img.freepik.com/free-photo/fluffy-ear-young-rabbit-celebrates-indoors-generated-by-ai_188544-30972.jpg?t=st=1717843287~exp=1717846887~hmac=be12fc61eddb1f98a78aecf2320f12d17ffdc057d027d0b3258f667a5256fa23&w=740",
+        "maximum_donation_amount": 750
+    },
+    {
+        "name": "Luna",
+        "image": "https://img.freepik.com/free-photo/cute-fish-underwater_23-2150699311.jpg?t=st=1717843627~exp=1717847227~hmac=020c54f8bbcbc9497c8d02235395118647f167075d6ce4c409fbf574f26ed018&w=740",
+        "maximum_donation_amount": 400
+    },
+    {
+        "name": "Bella",
+        "image": "https://img.freepik.com/free-photo/adorable-cat-relaxing-indoors_23-2150692767.jpg?t=st=1717842794~exp=1717846394~hmac=75954e0033c07df6f8513b29a7de56c22f3771fe157645267b1013c8e0fdedfe&w=1060",
+        "maximum_donation_amount": 600
+    }
+]
